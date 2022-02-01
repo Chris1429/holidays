@@ -3,43 +3,80 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title >A little trip with us... </title >
-		<style>
-			aside {
-			width: 32.5%;
-			padding-left: 15px;
-			margin-left: 15px;
-			float: right;
-			font-style: italic;
-			background-color: lightgray;
-			}
-			
-			nav {
-			width: 50%;
-			padding-left: 15px;
-			margin-left: 15px;
-			float: center-right;
-			font-style: bold;
-			background-color: lightgray;
-			}
-		</style>
+		<link href="stylesheet.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		
-	
+		<h1>Our holidays</h1>
+		
 		<nav>
-			<a href="01.html" target="_blank">Great Glen</a> |
-			<a href="02.html" target="_blank">Ullapool</a> |
-			<a href="03.html" target="_blank">Dunnet Head</a> |
-			<a href="04.html" target="_blank">Portmahomack</a> |
-			<a href="05.html" target="_blank">Banff</a> |
-			<a href="06.html" target="_blank">Cairngorms</a>
+			<ul>
+				<li><article>
+					<details>
+					<summary><strong>NC500++</strong></summary>
+						<ul>
+							<li><a href="01.html" target="_blank">Great Glen</a></li>
+							<li><a href="02.html" target="_blank">Ullapool</a></li>
+							<li><a href="03.html" target="_blank">Dunnet Head</a></li>
+							<li><a href="04.html" target="_blank">Portmahomack</a></li>
+							<li><a href="05.html" target="_blank">Banff</a></li>
+							<li><a href="06.html" target="_blank">Cairngorms</a></li>
+						</ul>
+					</details>
+				</article></li>
+				<li><article>
+					<details>
+					<summary><strong>Saumur</strong></summary>
+						<ul>
+							<li>Saumur</li>
+							<li>Domaine de la Breche</li>
+							<li>Le Mans</li>
+							<li>Vino!</li>
+						</ul>
+					</details>
+				</article></li>
+				<li><article>
+					<details>
+					<summary><strong>Belgium</strong></summary>
+						<ul>
+							<li>Spa</li>
+							<li>Spa Francorchamps</li>
+							<li>Auction</li>
+							<li>Evening</li>
+						</ul>
+					</details>
+				</article></li>
+				<li><article>
+					<details>
+					<summary><strong>Germany</strong></summary>
+						<ul>
+							<li>Saarburg</li>
+							<li>Saar loop</li>
+							<li>Nurburg</li>
+							<li>Nurburgring</li>
+						</ul>
+					</details>
+				</article></li>
+				<li><article>
+					<details>
+					<summary><strong>Annecy and the Alps</strong></summary>
+						<ul>
+							<li>Lake Annecy</li>
+							<li>Italy</li>
+							<li>The Alps</li>
+							<li>Doussard</li>
+							<li>Annecy</li>
+						</ul>
+					</details>
+				</article></li>
+			</ul>
 		</nav>
 		
 		<section>
-		<h1>Our holidays</h1>
-				
-		<p>Over the past few years we have taken several trips around the UK and Europe, on two wheels and four.
-		This is a website dedicated to our trips, please check out the pages for each area.</p>
+		
+		<p style="text-align:center">Over the past few years we have taken several trips around the UK and Europe, on two wheels and four.
+		This is a website dedicated to our trips, please check out the pages for each area.</p>		
+		<hr>
 		
 		<aside>
 		<h2>The Alps!</h2>
@@ -52,25 +89,21 @@
 		</aside>
 		
 		
-		<hr>
+		
 			<article>
-				<details>
-				<summary><strong><a href="01.html" target="_blank">NC500-ish</a></strong></summary>
+				<h2>NC500++</h2>
 				<p>Last year we took a lovely holiday trip to the Scottish Highlands and beyond.  We took in the sights
 		of the Great Glen, Ullapool, Dunnet Head, Portmahomack, Banff and finally the Cairngorms.  I had wanted to tour
 		the coast of the north of Scotland for a long time, but it had to be on two wheels.  It's taken me a while and
 		now it's a "thing" but it was worth the wait!</p>
-				</details>
 			</article>
 		
 			<article>
-				<details>
-				<summary><strong>Le Mans</strong></summary>
+				<h2>Le Mans</h2>
 				<img src="images/LeMans.jpg" />
 				<p>In many ways the spiritual home of motorsport, a trip to France to cheer on Zarco, Rossi and the
 				 other two wheeled gladiators!  Attempting to sing La Marseillaise, exchanging greetings with the
 				  Jillet Jaunes and getting lost in the madcap campsite.</p>
-				  </details>
 			</article>
 		</section>
 	</body>

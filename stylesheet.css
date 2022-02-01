@@ -1,0 +1,27 @@
+body {background-color: #ccffcc}
+
+aside {
+	width: 32%;
+	padding-left: 15px;
+	margin-left: 15px;
+	float: right;
+	font-style: italic;
+	background-color: orange
+}
+		
+nav {
+	width: 12%;
+	padding-left: 8px;
+	margin-left: 2px;
+	float: left-side;
+	font-style: bold;
+	color: #ffffcc;
+	background-color: orange
+}
+
+h1 {color: orange; 
+	background-color: #ffffcc; 
+	font-style: bold;
+	margin-left: 2px;
+	text-align: center
+}
