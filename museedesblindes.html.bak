@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title >Saumur</title >
+		<link href="stylesheet.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<h1>Musee des Blindes</h1>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="saumr.html">Saumur</a></li>
+				<li><a href="domaine.html">Domaine de la Breche</a></li>
+				<li><a href="le-mans.html">Le Mans</a></li>
+			</ul>
+		</nav>
+		<br>
+		
+		<section>
+		<p>Billed as the largest armoured museum in France, <a href="https://www.museedesblindes.fr/en/" target=
+		"_blank">Musee des Blindes</a> in Saumur does not disappoint!  There's a phenomenal array of armoured
+		 vehicles, in particular from WWII, and enough Tiger's to make Oddball sweat!</p>
+		<br>
+		<table>
+			
+		
+							
+				<tr>
+					<td><img src="images/panther.jpg" /></td>
+					<td><img src="images/T34.jpg" /></td>
+					<td><img src="images/Tanks.jpg" /></td>
+				</tr>
+				
+			
+			
+		</table>
+		</section>
+		<p>Press to go back <a href="index.html">Home...</a></p>
+		
+	</body>
+</html>

@@ -24,14 +24,15 @@
 						</ul>
 					</details>
 				</article></li>
+				<!--
 				<li><article>
 					<details>
 					<summary><strong>Saumur</strong></summary>
 						<ul>
-							<li>Saumur</li>
-							<li>Domaine de la Breche</li>
-							<li>Le Mans</li>
-							<li>Vino!</li>
+							<li><a href="saumur.html">Saumur</a></li>
+							<li><a href="domaine.html">Domaine de la Breche</a></li>
+							<li><a href="le-mans.html">Le Mans</a></li>
+							<li><a href="museedesblindes.html">Saumur Armored Museum</a></li>
 						</ul>
 					</details>
 				</article></li>
@@ -65,10 +66,10 @@
 							<li>Italy</li>
 							<li>The Alps</li>
 							<li>Doussard</li>
-							<li>Annecy</li>
 						</ul>
 					</details>
 				</article></li>
+				-->
 			</ul>
 		</nav>
 		
