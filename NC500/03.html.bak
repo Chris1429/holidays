@@ -3,14 +3,14 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title >NC500++</title >
-		<link href="stylesheet.css" rel="stylesheet" type="text/css">
+		<link href="../stylesheet.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 	
 	<h1>The road to Dunnet Head</h1>
 		<nav>
 			<ul>
-				<li><a href="index.html">Home</a></li>
+				<li><a href="../index.html">Home</a></li>
 				<li><a href="01.html">The Great Glen</a></li>
 				<li><a href="02.html">Ullapool</a></li>
 				<li><a href="04.html">Portmahomack</a></li>
@@ -45,8 +45,8 @@
 				</tr>
 				
 				<tr>
-					<td><img src="images/Day 3-1.jpg" /></td>
-					<td><img src="images/Day 3-2.jpg" /></td>
+					<td><img src="../images/Day 3-1.jpg" /></td>
+					<td><img src="../images/Day 3-2.jpg" /></td>
 				</tr>
 				
 			<tfoot>

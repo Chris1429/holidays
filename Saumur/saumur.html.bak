@@ -3,14 +3,14 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title >Saumur</title >
-		<link href="stylesheet.css" rel="stylesheet" type="text/css">
+		<link href="../stylesheet.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<h1>Saumur</h1>
 		
 		<nav>
 			<ul>
-				<li><a href="index.html">Home</a></li>
+				<li><a href="../index.html">Home</a></li>
 				<li><a href="domaine.html">Domaine de la Breche</a></li>
 				<li><a href="le-mans.html">Le Mans</a></li>
 				<li><a href="museedesblindes.html">Saumur Armored Museum</a></li>
@@ -38,8 +38,8 @@
 				</tr>
 				
 				<tr>
-					<td><img src="images/Saumur.jpg" /></td>
-					<td><img src="images/Saumur-chateaux.jpg" /></td>
+					<td><img src="../images/Saumur.jpg" /></td>
+					<td><img src="../images/Saumur-chateaux.jpg" /></td>
 				</tr>
 				
 			<tfoot>

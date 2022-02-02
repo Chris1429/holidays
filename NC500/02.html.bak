@@ -3,24 +3,12 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title >NC500++</title >
-		<link href="stylesheet.css" rel="stylesheet" type="text/css">
+		<link href="../stylesheet.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<h1>Ullapool</h1>
-		<nav>
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="01.html">The Great Glen</a></li>
-				<li><a href="03.html">Dunnet Head</a></li>
-				<li><a href="04.html">Portmahomack</a></li>
-				<li><a href="05.html">Banff</a></li>
-				<li><a href="06.html">Cairngorms</a></li>
-			</ul>
-		</nav>
-		<br>
-	
-		
-		<section>
+			
+		<main>
 		<p>Day two was meant to take us over "The pass of cows" to Applecross, then on to Kinlochewe, Poolewe
 		and onwards to end the day at Ullapool.  However, as we'd been up the pass the previous evening
 		 when the weather was clear, with grey skies facing us we decided to skip Applecross and
@@ -28,9 +16,21 @@
 		 <p>We had a pleasurable time poking around the fascinating museum just outside Poolewe and reached
 		 Ullapool by mid-afternoon, just in time for coffee and cake.  This would become a holiday theme!</p>
 		
-		<img src="images/Day 2-1.jpg" />
-		</section>
-		<p>Press to continue to <a href="03.html">Day 3</a>.</p>
+		<img src="../images/Day 2-1.jpg" />
+		</main>
+		
+		<nav>
+			<ul>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="01.html">The Great Glen</a></li>
+				<li><a href="03.html">Dunnet Head</a></li>
+				<li><a href="04.html">Portmahomack</a></li>
+				<li><a href="05.html">Banff</a></li>
+				<li><a href="06.html">Cairngorms</a></li>
+			</ul>
+		</nav>
+		
+		<footer class="footer">Random holiday stuff by me</footer>
 		
 	</body>
 </html>

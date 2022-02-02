@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title >Saumur</title >
-		<link href="stylesheet.css" rel="stylesheet" type="text/css">
+		<link href="../stylesheet.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<h1>Domaine de la Breche</h1>
@@ -33,8 +33,8 @@
 				</tr>
 				
 				<tr>
-					<td><img src="images/domaine-caravan.jpg" /></td>
-					<td><img src="images/domaine-horses.jpg" /></td>
+					<td><img src="../images/domaine-caravan.jpg" /></td>
+					<td><img src="../images/domaine-horses.jpg" /></td>
 				</tr>
 				
 			<tfoot>

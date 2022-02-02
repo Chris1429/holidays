@@ -3,14 +3,14 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title >NC500++</title >
-		<link href="stylesheet.css" rel="stylesheet" type="text/css">
+		<link href="../stylesheet.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<h1>The Great Glen</h1>
 		
 		<nav>
 			<ul>
-				<li><a href="index.html">Home</a></li>
+				<li><a href="../index.html">Home</a></li>
 				<li><a href="02.html">Ullapool</a></li>
 				<li><a href="03.html">Dunnet Head</a></li>
 				<li><a href="04.html">Portmahomack</a></li>
@@ -34,8 +34,8 @@
 				</tr>
 				
 				<tr>
-					<td><img src="images/Day 1-1.jpg" /></td>
-					<td><img src="images/Day 1-2.jpg" /></td>
+					<td><img src="../images/Day 1-1.jpg" /></td>
+					<td><img src="../images/Day 1-2.jpg" /></td>
 				</tr>
 				
 			<tfoot>

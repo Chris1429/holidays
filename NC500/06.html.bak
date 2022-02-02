@@ -3,28 +3,17 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title >NC500++</title >
-		<link href="stylesheet.css" rel="stylesheet" type="text/css">
+		<link href="../stylesheet.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
-		<h1>The Cairngorms</h1>
-		<nav>
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="01.html">The Great Glen</a></li>
-				<li><a href="02.html">Ullapool</a></li>
-				<li><a href="03.html">Dunnet Head</a></li>
-				<li><a href="04.html">Portmahomack</a></li>
-				<li><a href="05.html">Banff</a></li>
-			</ul>
-		</nav>
-		<br>
-		
-		<section>
+		<header>The Cairngorms</header>
+				
+		<main>
 		<p>Our final full day was spent drifting towards Pitlochry.  Setting off from Banff (thankfully dry) we
 		 wandered toward Grantown-on-Spey where we stopped for coffee and cake.  Suitable refreshed we headed 
 		  towards the Military road, passing the ski slopes before heading down to Pitlochry for the evening.<p>
 		
-		<table>
+		
 			<caption>Day six</caption>
 		
 				<tr>
@@ -34,9 +23,9 @@
 				</tr>
 				
 				<tr>
-					<td><img src="images/Day 6-1.jpg" /></td>
-					<td><img src="images/Day 6-2.jpg" /></td>
-					<td><img src="images/Day 6-3.jpg" /></td>
+					<td><img src="../images/Day 6-1.jpg" /></td>
+					<td><img src="../images/Day 6-2.jpg" /></td>
+					<td><img src="../images/Day 6-3.jpg" /></td>
 				</tr>
 				
 			<tfoot>
@@ -51,8 +40,20 @@
 		
 		<p>We finally reached Pitlochry spending a night in the wonderful <a href="https://www.silverhowe.com/" 
 		target="_blank">Silverhowe</a> bed and breakfast.
-		</section>
-		<p>Press to continue to return to the <a href="index.html">homepage</a>.</p>
+		</main>
+		
+		<nav>
+			<ul>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="01.html">The Great Glen</a></li>
+				<li><a href="02.html">Ullapool</a></li>
+				<li><a href="03.html">Dunnet Head</a></li>
+				<li><a href="04.html">Portmahomack</a></li>
+				<li><a href="05.html">Banff</a></li>
+			</ul>
+		</nav>
+		
+		<footer class="footer">Random holiday stuff by me</footer>
 	
 	</body>
 </html>
