@@ -2,7 +2,7 @@ body {background-color: #ccffcc}
 
 aside {
 	width: 33%;
-	padding-left: 25px;
+	padding-left: 24px;
 	margin-left: 15px;
 	float: right;
 	font-style: italic;
@@ -10,18 +10,30 @@ aside {
 }
 		
 nav {
-	width: 12%;
+	width: 10%;
 	padding-left: 8px;
+	padding-right: 8px;
 	margin-left: 2px;
 	float: left-side;
 	font-style: bold;
 	color: #ffffcc;
-	background-color: orange
+	background-color: orange;
+	li a {
+  display: block;
+  width: 60px;
+}
+	
 }
 
-h1 {color: orange; 
+h1 {
+	color: orange; 
 	background-color: #ffffcc; 
 	font-style: bold;
 	margin-left: 2px;
 	text-align: center
 }
+
+h3 {
+	text-align: center
+}
+	

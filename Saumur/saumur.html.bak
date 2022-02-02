@@ -18,17 +18,20 @@
 		</nav>
 		<br>
 		
-		<section>
 		<p>Nestled alongside the idyllic lower reaches of the Loire River, Saumur provides a fairytale castle,
 		fabulous local shops and market, plentiful local vineyards, world famous display horses and a fantastic 
 		armoured vehicle museum.</p>
 		
 		<p>As well as being a great area to relax, sample some fantastic local food and wine and enjoy some pleasant
-		 spring sunshine, Saumur also happens to be about an hours drive from Le Mans...,/p>
+		 spring sunshine, Saumur also happens to be about an hours drive from Le Mans...</p>
 		
-		<table>
-			<caption>Saumur chateaux</caption>
-		
+		<section>
+				
+		<h3>Saumur chateaux</h3>
+			
+			<article>
+				<table>
+				
 				<tr>
 					<th>Eastern elevation</th>
 					<th>West tower</th>
@@ -46,7 +49,8 @@
 				</tr>
 			</tfoot>
 			
-		</table>
+				</table>
+			</article>
 		</section>
 		<p>Press to continue to <a href="domaine.html">Domaine de la Breche...</a></p>
 		
