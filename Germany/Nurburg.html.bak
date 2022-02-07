@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title >Germany</title >
+		<link href="../stylesheet.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<header>Nurburg</header>
+		
+		<main>
+		<p>After heading for nearby Trier we get on Autobahn 1.  The road may evoke thoughts of the countries Nazi past,
+		 but this section was actually built in the 70's and 80's.  Without speed restrictions, most cars cruise at 80-90mph, 
+		 although we were quite happy at 120mph.  The trucks are still moving at 90kmh though, something to keep in mind when 
+		  you're slowing down to exit.</p>
+		   
+		<p>Nurburg is a village which had a grand plan to put itself on the map, and today its name reverberates around the 
+		world of motorsport.  There's more than just cars here, history abounds, but for petrolheads it's like Mecca!</p>
+		
+			<ul class="flex-container">
+				<li><img src="../images/nurburg-1.jpg" /> <img src="../images/nurburg-2.jpg" /> 
+				<img src="../images/nurburg-3.jpg" /> <img src="../images/nurburg-4.jpg" /></li>
+			</ul>
+			
+		</main>
+		
+		<nav>
+			<ul>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="Saarburg.html">Saarburg</a></li>
+				<li><a href="Saar-loop.html">Saar Loop</a></li>
+				<li><a href="museedesblindes.html">Saumur Armored Museum</a></li>
+			</ul>
+		</nav>
+		
+		<aside class="aside aside-1">
+			<h2>BMW M-Sport</h2>
+			<img src="../images/Nurburg-5.jpg" style="max-width:100%;"><br><img src="../images/Nurburg-6.jpg" 
+			 style="max-width:100%;"><figcaption><em>Where else would they have a test centre?</em></figcaption>
+		</aside>
+				
+		<footer class="footer">Random holiday stuff by me</footer>
+		
+	</body>
+</html>

@@ -73,18 +73,19 @@
 							<li>Evening</li>
 						</ul>
 					</details>
-				</article></li>
+				</article></li> -->
 				<li><article>
 					<details>
 					<summary><strong>Germany</strong></summary>
 						<ul>
-							<li>Saarburg</li>
-							<li>Saar loop</li>
-							<li>Nurburg</li>
-							<li>Nurburgring</li>
+							<li><a href="Germany/Saarburg.html">Saarburg</li>
+							<li><a href="Germany/Saar-loop.html">Saar loop</a></li>
+							<li><a href="Germany/Nurburg.html">Nurburg</li>
+							<li><a href="Germany/Nurburgring-loop.html">Nurburgring</li>
 						</ul>
 					</details>
 				</article></li>
+				<!--
 				<li><article>
 					<details>
 					<summary><strong>Annecy and the Alps</strong></summary>
@@ -110,7 +111,7 @@
 		
 		</aside>
 		
-		
+		<footer class="footer">Random holiday stuff by me</footer>
 		
 	</body>
 </html>
